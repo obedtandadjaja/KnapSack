@@ -1,5 +1,5 @@
 # KnapSack
-A simple dynamic recursive algorithm of the knapsack problem.
+A simple dynamic recursive algorithm in Java of the knapsack problem.
 
 For more information on the problem visit this wikipedia page: https://en.wikipedia.org/wiki/Knapsack_problem.
 
@@ -24,8 +24,8 @@ Output: ```Max value: 495```
 1. Clone this repo or copy and paste the code in src/DynamicAlgorithm.java
 2. Modify the maximum weight of the bag and the weight and values of the items inside the code
 3. Go to the directory of the file
-4. Type javac DynamicAlgorithm.java
-5. Type java DynamicAlgorithm
+4. Type ```javac DynamicAlgorithm.java```
+5. Type ```java DynamicAlgorithm```
 
 ### Copyright
 NO COPYRIGHT JUST USE. BUT AVOID USING IT FOR YOUR SCHOOL ASSIGNMENTS. HAPPY TO CONTRIBUTE TO THE GITHUB COMMUNITY.
